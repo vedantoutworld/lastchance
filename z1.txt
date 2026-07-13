@@ -1,2 +1,6 @@
 hello world
+<<<<<<< HEAD
 ye mera branch 1 hai 
+=======
+ye mera branch 2 hai
+>>>>>>> b2
