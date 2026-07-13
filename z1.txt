@@ -4,3 +4,4 @@ ye mera branch 1 hai
 =======
 ye mera branch 2 hai
 >>>>>>> b2
+ye 3rd branch hai
